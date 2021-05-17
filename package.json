@@ -14,5 +14,9 @@
     "deployE": "polymer build --bundle --js-minify",
     "deployB": "polymer build --preset \"es5-bundled\" --js-compile --js-minify  --css-minify  --html-minify  --bundle --add-service-worker --add-push-manifest --sw-precache-config",
     "deployC": "polymer build --preset \"es5-bundled\" --js-compile --js-minify  --css-minify  --html-minify  --bundle"
+  },
+  "dependencies": {
+    "bower": "^1.8.12",
+    "polymer-cli": "^1.9.11"
   }
 }
