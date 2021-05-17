@@ -1103,7 +1103,7 @@
         "answer": "Edit the criteria used to trigger the approval process"
     }],
     "answer": "A. B. ",
-    "choose": "choose 15"
+    "choose": "choose 2"
 }, {
     "id": 49,
     "question": "A user is having trouble logging into Salesforce. The users login history shows that this person has attempted to log in multiple times and has been locked out of the organization.How can the system administrator help the user log into Salesforce?",
@@ -4301,13 +4301,9 @@
     }, {
         "ca": "C.",
         "checked": false,
-        "answer": "The opportunity and account name, including the close date defaulting to the end of the"
-    }, {
+        "answer": "The opportunity and account name, including the close date defaulting to the end of the year."
+    },{
         "ca": "D.",
-        "checked": false,
-        "answer": "ar."
-    }, {
-        "ca": "E.",
         "checked": false,
         "answer": "The opportunity and account name, including the close date defaulting to the last day of the quarter and Stage field defaulting to the first value"
     }]
@@ -5119,25 +5115,17 @@
     "answers": [{
         "ca": "A.",
         "checked": false,
-        "answer": "Tasks allow you to track the specific actions you plan to perform or have performed; Email Alerts cannot"
+        "answer": "Tasks allow you to track the specific actions you plan to perform or have performed; Email Alerts cannot track specific actions"
     }, {
         "ca": "B.",
         "checked": false,
-        "answer": "ack specific actions"
-    }, {
+        "answer": "Email Alerts allow you to track the specific actions you plan to perform or have performed, Tasks cannot track specific actions"
+    },{
         "ca": "C.",
-        "checked": false,
-        "answer": "Email Alerts allow you to track the specific actions you plan to perform or have performed, Tasks cannot"
-    }, {
-        "ca": "D.",
-        "checked": false,
-        "answer": "ack specific actions"
-    }, {
-        "ca": "E.",
         "checked": false,
         "answer": "Email Alerts and Tasks allow you to track the specific actions you plan to perform or have performed"
     }, {
-        "ca": "E.",
+        "ca": "D.",
         "checked": false,
         "answer": "Email Alerts and Tasks cannot track the specific actions you plan to perform or have performed"
     }]
@@ -5583,7 +5571,7 @@
     }]
 }, {
     "id": 268,
-    "answer": "B. C. E. ",
+    "answer": "B. D. E. ",
     "choose": "Choose 3",
         "question": "Salesforce.com archives older activities according to which of the following conditions:",
     "answers": [{
@@ -5961,27 +5949,15 @@
     }, {
         "ca": "C.",
         "checked": false,
-        "answer": "You can automatically see the New Meeting Request button on all eligible contact, lead, and person account"
+        "answer": "You can automatically see the New Meeting Request button on all eligible contact, lead, and person account detail pages."
     }, {
         "ca": "D.",
         "checked": false,
-        "answer": "tail pages."
+        "answer": "Meeting organizers can not use Cloud Scheduler to request meetings with customers, and have customers select preferred times before confirming the meeting."
     }, {
         "ca": "E.",
         "checked": false,
-        "answer": "Meeting organizers can not use Cloud Scheduler to request meetings with customers, and have customers"
-    }, {
-        "ca": "E.",
-        "checked": false,
-        "answer": "lect preferred times before confirming the meeting."
-    }, {
-        "ca": "E.",
-        "checked": false,
-        "answer": "Administrators can add or remove the New Meeting Request button on multiple page layouts using the new"
-    }, {
-        "ca": "E.",
-        "checked": false,
-        "answer": "oud Scheduler quick setup method."
+        "answer": "Administrators can add or remove the New Meeting Request button on multiple page layouts using the new Cloud Scheduler quick setup method."
     }]
 }, {
     "id": 294,
@@ -6394,28 +6370,6 @@
         "ca": "D.",
         "checked": false,
         "answer": "\"Read\" for opportunities."
-    }]
-}, {
-    "id": 317,
-    "answer": "B. D. ",
-    "choose": "Choose 2",
-        "question": "What can users do with Mobile Lite?",
-    "answers": [{
-        "ca": "A.",
-        "checked": false,
-        "answer": "View campaigns and manage campaign members."
-    }, {
-        "ca": "B.",
-        "checked": false,
-        "answer": "View, create, edit and delete accounts, contacts and opportunities."
-    }, {
-        "ca": "C.",
-        "checked": false,
-        "answer": "View, create, edit and delete custom objects."
-    }, {
-        "ca": "D.",
-        "checked": false,
-        "answer": "Search for records that were not previously downloaded to a mobile device"
     }]
 }, {
     "id": 318,
@@ -7090,28 +7044,6 @@
         "answer": "The field-level-security for the dependent field"
     }]
 }, {
-    "id": 349,
-    "answer": "B. ",
-    "choose": "Choose 1",
-        "question": "What will happen when a user attempts to log in to salesforce from an IP address that is outside the login IP range on the User's profile within the organization-wide trusted IP range?",
-    "answers": [{
-        "ca": "A.",
-        "checked": false,
-        "answer": "The user will not be able to log in at all"
-    }, {
-        "ca": "B.",
-        "checked": false,
-        "answer": "The user will be able to log in after the computer is activated."
-    }, {
-        "ca": "C.",
-        "checked": false,
-        "answer": "The user will be able to log in without activating the computer"
-    }, {
-        "ca": "D.",
-        "checked": false,
-        "answer": "The user will be able to log in after answering a security question."
-    }]
-}, {
     "id": 350,
     "answer": "A. B. D. ",
     "choose": "Choose 3",
@@ -7606,32 +7538,6 @@
         "ca": "D.",
         "checked": false,
         "answer": "assignment rule"
-    }]
-}, {
-    "id": 374,
-    "answer": "B. C. D. ",
-    "choose": "Choose 3",
-        "question": "What setting is controlled by a user's profile?",
-    "answers": [{
-        "ca": "A.",
-        "checked": false,
-        "answer": "Locale settings"
-    }, {
-        "ca": "B.",
-        "checked": false,
-        "answer": "Assigned apps"
-    }, {
-        "ca": "C.",
-        "checked": false,
-        "answer": "Record type assignment"
-    }, {
-        "ca": "D.",
-        "checked": false,
-        "answer": "Field-level security"
-    }, {
-        "ca": "E.",
-        "checked": false,
-        "answer": "Feature license assignment."
     }]
 }, {
     "id": 378,
