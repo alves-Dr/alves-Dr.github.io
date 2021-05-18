@@ -494,7 +494,7 @@
     },
     {
        "id":"18",
-       "question":"The Finance team at Universal Containers usually does not need access to Account and Contract records A .. given Opportunity access for a big deal to help with tax calculation. She can now also access Account and C.. Which two reasons could be causing this issue? Choose 2 answers ",
+       "question":"The Finance team at Universal Containers usually does not need access to Account and Conact records. A finance analyst was temporarily given Opportunity access for a big deal to help with tax calculation. She can now also access Account and Contact records as well. Which two reasons could be causing this issue?",
        "answers":[
           {
              "ca":"A.",
@@ -668,7 +668,7 @@
     },
     {
        "id":"24",
-       "question":"Universal Containers (UC) operates worldwide with offices in more than 100 regions in 10 different countries role hierarchy to control data visibility. In the new fiscal year, UC is planned to reorganize the roles and rea.. Which two point should an Architect consider in this situation? Choose 2 answers ",
+       "question":"Universal Containers (UC) operates worldwide with offices in more than 100 regions in 10 different countries and has established a complex role hierarchy to control data visibility. In the new fiscal year, UC is planning to reorganize the roles and reassign accounts owners. Which two point should an Architect consider in this situation? ",
        "answers":[
           {
              "ca":"A.",
@@ -813,7 +813,7 @@
     },
     {
        "id":"29",
-       "question":"Universal Containers (UC) operates worldwide with offices in more than 100 regions in 10 different countries and has established a very complex role hierarchy to control data visibility. In the new fiscal year UC is planning to reorganize the roles and reassign accounts owners. Which three features could an architect recommend to avoid problems on this operation? Choose 3 answers ",
+       "question":"Universal Containers (UC) operates worldwide with offices in more than 100 regions in 10 different countries and has established a very complex role hierarchy to control data visibility. In the new fiscal year UC is planning to reorganize the roles and reassign accounts owners.\nWhich three features could an architect recommend to avoid problems on this operation?",
        "answers":[
           {
              "ca":"A.",
@@ -876,7 +876,7 @@
     },
     {
        "id":"31",
-       "question":"Universal Containers (UC) has implemented Customer Community with customer community license for .. any record owned by its customers should be accessible by UC users in the customer support role. How can an Architect configure the system to support the requirements? ",
+       "question":"Universal Containers (UC) has implemented Customer Community with customer community licenses for their customers. UC requested that any record owned by its customers should be accessible by UC users in the customer support role. How can an Architect configure the system to support the requirements? ",
        "answers":[
           {
              "ca":"A.",
@@ -934,7 +934,7 @@
     },
     {
        "id":"33",
-       "question":"The architect has a requirement to create a criteria-based sharing rule based on the customer Social.. up the rule in Contact Sharing, the field is not shown on the list of available field. What might cause this? ",
+       "question":"The architect has a requirement to create a criteria-based sharing rule based on the customer Social Security number. However when setting up the rule in Contact Sharing, the field is not shown on the list of available fields.\n What might cause this? ",
        "answers":[
           {
              "ca":"A.",
@@ -992,7 +992,7 @@
     },
     {
        "id":"35",
-       "question":"Universal Containers (UC) is implementing Sales Cloud. During the last quarter of the financial of the financial year, .. They requested a solution in Salesforce to allow them to specify an assistance agent on the opportunity.. the assistance field. The system should automatically remove access from the previous assistant and .. What is the optimum solution to meet the requirements? ",
+       "question":"Universal Containers (UC) is implementing Sales Cloud. During the last quarter of the financial of the financial year, .. They requested a solution in Salesforce to allow them to specify an assistance agent on the opportunity.. the assistance field. The system should automatically remove access from the previous assistant and grant access to the new assistant. What is the optimum solution to meet the requirements? ",
        "answers":[
           {
              "ca":"A.",
@@ -1137,7 +1137,7 @@
     },
     {
        "id":"40",
-       "question":"Universal Containers has a large network of partners, who each have seasonal workers that need .. How might the Architect design the solution to federate user setup to the Partners? Choose 2 answers ",
+       "question":"UUniversal Containers has a large network of partners, who each have seasonal workers that need short term access to the community. How might the Architect design the solution to federate user setup to the Partners? Choose 2 answers ",
        "answers":[
           {
              "ca":"A.",
@@ -1195,7 +1195,7 @@
     },
     {
        "id":"42",
-       "question":"Universal Containers is planning to pilot a new application to a small set of Sales Reps. What is the optimal way to grant inly this Sales Reps access to the new functionality, while hiding .. ",
+       "question":"Universal Containers is planning to pilot a new application to a small set of Sales Reps. \nWhat is the optimal way to grant only those Sales Reps access to the new functionality, while hiding the legacy functionality?",
        "answers":[
           {
              "ca":"A.",
@@ -1340,12 +1340,12 @@
     },
     {
        "id":"47",
-       "question":"Universal Containers (UC) has a custom object to track the internal net promoter score (NPS) for all .. How can UC ensure that NPS records cannot be accessed by an individual employee's manager? ",
+       "question":"Universal Containers (UC) has a custom object to track the internal net promoter score (NPS) for all of its employees. How can UC ensure that NPS records cannot be accessed by an individual employee's manager? ",
        "answers":[
           {
              "ca":"A.",
              "checked":false,
-             "answer":"Create a criteria-based sharing rule to remove access to Manager role and above in the Role .."
+             "answer":"Create a criteria-based sharing rule to remove access to Manager role and above in the Role Hierarchy."
           },
           {
              "ca":"B.",
@@ -1601,7 +1601,7 @@
     },
     {
        "id":"56",
-       "question":"Universal Containers (UC) has Affiliates who sell containers in countries where UC does not have a local office. UC has leveraged the Partner Community to manage the sales cycle. One of their affiliates has exponentially grown in the last years and restructured its internal sales team with the following structure: Sales VP ...\u003e Direct of sales ..\u003e Sales Manager ..\u003e Sales Reps What is the main problem a Salesforce Architect will face to provide a solution? ",
+       "question":"Universal Containers (UC) has Affiliates who sell containers in countries where UC does not have a local office. UC has leveraged the Partner Community to manage the sales cycle. One of their affiliates has exponentially grown in the last years and restructured its internal sales team with the following structure:\n Sales VP ...\u003e Direct of sales ..\u003e Sales Manager ..\u003e Sales Reps \nWhat is the main problem a Salesforce Architect will face to provide a solution? ",
        "answers":[
           {
              "ca":"A.",
@@ -5320,7 +5320,7 @@
     },
     {
        "id":"187",
-       "question":"Universal Containers (UC) uses a custom lightning component with an Apex class to display shipment information (custom object, private OWD). UC sales managers are complaining about two important points: â—? Shipment records that belong to their teams can be seen by other users. â—? Shipment amount should be visible only by managers, but sales reps are able to view it.Which two features did the development team miss that is causing the problems? Choose 2 answers. ",
+       "question":"Universal Containers (UC) uses a custom lightning component with an Apex class to display shipment information (custom object, private OWD). UC sales managers are complaining about two important points: \n  — Shipment records that belong to their teams can be seen by other users. \n  — Shipment amount should be visible only by managers, but sales reps are able to view it.\nWhich two features did the development team miss that is causing the problems?",
        "answers":[
           {
              "ca":"A.",
@@ -5407,7 +5407,7 @@
     },
     {
        "id":"190",
-       "question":"The sales managers at the Universal Containers (UC) requested their teams to define each userâ€™s role on their accounts in order to provide an easy way to establish accountability and collaboration. Sales managers also requested that sales associates should only get the following permissions: â—? Read access to the accounts. â—? Read access to cases related to the accounts â—? No access to deals related to the accounts The sales associates may be granted access to opportunities when needed. Assuming the overall sharing model of the organization is private and no sharing rules are configured on the account object. How can an Architect achieve these requirements? ",
+       "question":"The sales managers at the Universal Containers (UC) requested their teams to define each userâ€™s role on their accounts in order to provide an easy way to establish accountability and collaboration. Sales managers also requested that sales associates should only get the following permissions: \n— Read access to the accounts. \n— Read access to cases related to the accounts \n— No access to deals related to the accounts\n The sales associates may be granted access to opportunities when needed. Assuming the overall sharing model of the organization is private and no sharing rules are configured on the account object. How can an Architect achieve these requirements? ",
        "answers":[
           {
              "ca":"A.",
