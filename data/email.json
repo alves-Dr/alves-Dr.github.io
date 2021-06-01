@@ -30,7 +30,7 @@
     },
     {
        "id":"2",
-       "question":"Sales Operations at Universal Container (UC) wants to create the opens to fiber appropriates for center. In which two ways can UC hide list that are not relevant to an individual use since there will be Choose 2 answers. ",
+       "question":"Sales Operations at Universal Containers (UC) wants to create list views to filter opportunities for certain geographies.In which two ways can UC hide list views that are not relevant to an individual user since there will be over 50 list views?",
        "answers":[
           {
              "ca":"A.",
@@ -436,7 +436,7 @@
     },
     {
        "id":"16",
-       "question":"Universal Container (UC) is in a legal dispute regarding several orders. UC has found out these records VP of Sales has asked to ensure this cannot happen in the future. What approach would meet this requirement? ",
+       "question":"Universal Containers (UC) is in a legal dispute regarding several orders. UC has found out these records were removed from the system. The VP of Sales has asked to ensure this cannot happen in the future.\n What approach would meet this requirement? ",
        "answers":[
           {
              "ca":"A.",
@@ -494,7 +494,7 @@
     },
     {
        "id":"18",
-       "question":"The Finance team at Universal Containers usually does not need access to Account and Conact records. A finance analyst was temporarily given Opportunity access for a big deal to help with tax calculation. She can now also access Account and Contact records as well. Which two reasons could be causing this issue?",
+       "question":"The Finance team at Universal Containers usually does not need access to Account and Contact records. A finance analyst was temporarily given Opportunity access for a big deal to help with tax calculation. She can now also access Account and Contact records as well. Which two reasons could be causing this issue?",
        "answers":[
           {
              "ca":"A.",
@@ -1253,7 +1253,7 @@
     },
     {
        "id":"44",
-       "question":"Universal containers (UC) has a partner community for its 200 distributors. UC customer accounts are .. organization-wide default setting for the custom Delivery object is private. How can an architect advise UC to grant all users at a distributor access to delivery records for all customer distributor? ",
+       "question":"Universal Containers (UC) has a partner community for its 200 distributors. UC customer accounts are assigned an individual distributor. The organization-wide default setting for the custom Delivery object is private.\n How can an architect advise UC to grant all users at a distributor access to delivery records for all customers assigned to a particular distributor?",
        "answers":[
           {
              "ca":"A.",
@@ -1485,7 +1485,7 @@
     },
     {
        "id":"52",
-       "question":"To reduce the case time resolution and improve customer satisfaction, Universal Containers (UC) wants to allow specialized marketing consultants to have edit access to Case records of VIP customers. These casts should be visible only to the support rep who owns the case and the marketing consultants. Which recommendation should a Salesforce architect give to allow this scenario? ",
+       "question":"To reduce the case time resolution and improve customer satisfaction, Universal Containers (UC) wants to allow specialized marketing consultants to have edit access to Case records of VIP customers. These cases should be visible only to the support rep who owns the case and the marketing consultants. Which recommendation should a Salesforce architect give to allow this scenario? ",
        "answers":[
           {
              "ca":"A.",
@@ -5175,7 +5175,7 @@
     },
     {
        "id":"182",
-       "question":"Sales manager at universal containers (UC) have requested viewing customer invoices in Salesforce. Invoice data is mastered in the ERP system. The architect at UC decided to surface the customer invoices in salesforce using external objects and did the following: -Configured an external object called Invoice. -Created a lookup relationship between account and the invoice. How can the architect grant the sales managers access to the customer invoices data? ",
+       "question":"Sales managers at Universal Containers (UC) have requested viewing customer invoices in Salesforce. Invoice data is mastered in the ERP system. The architect at UC decided to surface the customer invoices in Salesforce using external objects and did the following:\n  -Configured an external object called Invoice.\n  -Created a lookup relationship between account and the invoice.\nv How can the architect grant the sales managers access to the customer invoices data? ",
        "answers":[
           {
              "ca":"A.",
@@ -5204,7 +5204,7 @@
     },
     {
        "id":"183",
-       "question":"Sales Operations at Universal Containers (UC) has created Public Report and Dashboard folders for sales managers that report to the VP of sales. Sales Operations currently spends a few hours each month updating users that should have access to edit items in these folders. In which two ways can UC grant access to sales managers to automate access to these Reports and Dashboards folders? Choose 2 answers ",
+       "question":"Sales Operations at Universal Containers (UC) has created Public Report and Dashboard folders for sales managers that report to the VP of sales. Sales Operations currently spends a few hours each month updating users that should have access to edit items in these folders. In which two ways can UC grant access to sales managers to automate access to these Reports and Dashboards folders?  ",
        "answers":[
           {
              "ca":"A.",
@@ -5227,8 +5227,8 @@
              "answer":"Share the folders with a â€œSales Managersâ€? Public Group."
           }
        ],
-       "answer":"B. ",
-       "choose":"Choose 1",
+       "answer":"B. D. ",
+       "choose":"Choose 2",
        "isRadioButton":true
     },
     {
