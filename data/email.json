@@ -551,35 +551,6 @@
        "isRadioButton":true
     },
     {
-       "id":"20",
-       "question":"Universal Containers (UC) provides shipment tracking for its customers on a custom Shipment object. The .. yearly by the customers should be available on the Account record to the Marketing team, but the Marketing Shipment records. What recommend should an Architect provide to accomplish this? ",
-       "answers":[
-          {
-             "ca":"A.",
-             "checked":false,
-             "answer":"Public organization-wide default on Shipment, process builder, and lookup relationship to Account."
-          },
-          {
-             "ca":"B.",
-             "checked":false,
-             "answer":"Private organization-Wide default on Shipment, rollup summary, and Master-Detail relationship to Account."
-          },
-          {
-             "ca":"C.",
-             "checked":false,
-             "answer":"Controlled by Parent (Account) on Shipment, trigger, and trigger, and Master-Detail relationship to Account."
-          },
-          {
-             "ca":"D.",
-             "checked":false,
-             "answer":"Private organization-wide default on Shipment, trigger, and Lookup relationship to Account,"
-          }
-       ],
-       "answer":"D. ",
-       "choose":"Choose 1",
-       "isRadioButton":true
-    },
-    {
        "id":"21",
        "question":"An External Object is created to show Invoices from an external accounting system. When viewing the External Object, a user should only access invoice records the user is authorized to see. What two actions are required to achieve the above requirement? Choose 2 answers ",
        "answers":[
@@ -1137,7 +1108,7 @@
     },
     {
        "id":"40",
-       "question":"UUniversal Containers has a large network of partners, who each have seasonal workers that need short term access to the community. How might the Architect design the solution to federate user setup to the Partners? Choose 2 answers ",
+       "question":"Universal Containers has a large network of partners, who each have seasonal workers that need short term access to the community. How might the Architect design the solution to federate user setup to the Partners? ",
        "answers":[
           {
              "ca":"A.",
@@ -1682,7 +1653,7 @@
              "answer":"Use"
           }
        ],
-       "answer":"D. ",
+       "answer":"A. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
@@ -2093,7 +2064,7 @@
              "answer":"Create a SystemSOQLQueries class and a UserSOQLQueries class; set the \"With Sharing\" keyword on the User SOQLQueries class and \"Without Sharing\" on the SystemSOQLQueries class."
           }
        ],
-       "answer":"C.  D. ",
+       "answer":"A.  D. ",
        "choose":"Choose 2",
        "isRadioButton":false
     },
@@ -3468,7 +3439,7 @@
     },
     {
        "id":"124",
-       "question":"Universal Containers has a requirement to share Accounts automatically to the users at a field office. They currently have the following setup in their environment: â€¢ Accounts are set to Private in the Org-Wide Default. â€¢ The field office is specified by a lookup in the Account object. â€¢ There are 400 field offices. â€¢ The users in each field office are managed using public groups. Based upon a lookup relationship field on the Account, how should the Architect meet this requirement? ",
+       "question":"Universal Containers has a requirement to share Accounts automatically to the users at a field office. They currently have the following setup in their environment: \n - Accounts are set to Private in the Org-Wide Default. \n - The field office is specified by a lookup in the Account object. \n - There are 400 field offices. â€¢ The users in each field office are managed using public groups. Based upon a lookup relationship field on the Account, how should the Architect meet this requirement? ",
        "answers":[
           {
              "ca":"A.",
@@ -5407,7 +5378,7 @@
     },
     {
        "id":"190",
-       "question":"The sales managers at the Universal Containers (UC) requested their teams to define each userâ€™s role on their accounts in order to provide an easy way to establish accountability and collaboration. Sales managers also requested that sales associates should only get the following permissions: \n— Read access to the accounts. \n— Read access to cases related to the accounts \n— No access to deals related to the accounts\n The sales associates may be granted access to opportunities when needed. Assuming the overall sharing model of the organization is private and no sharing rules are configured on the account object. How can an Architect achieve these requirements? ",
+       "question":"The sales managers at the Universal Containers (UC) requested their teams to define each user's role on their accounts in order to provide an easy way to establish accountability and collaboration. Sales managers also requested that sales associates should only get the following permissions: \n— Read access to the accounts. \n— Read access to cases related to the accounts \n— No access to deals related to the accounts\n The sales associates may be granted access to opportunities when needed. Assuming the overall sharing model of the organization is private and no sharing rules are configured on the account object. How can an Architect achieve these requirements? ",
        "answers":[
           {
              "ca":"A.",
