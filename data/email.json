@@ -459,7 +459,7 @@
              "answer":"Change the Record Type/Page Layout assignment for orders to be Read Only."
           }
        ],
-       "answer":"A.  D. ",
+       "answer":"A. C. ",
        "choose":"Choose 2",
        "isRadioButton":false
     },
@@ -1769,7 +1769,7 @@
              "answer":"Use APEX managed sharing to grant access to the records."
           }
        ],
-       "answer":"D. ",
+       "answer":"B. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
@@ -2470,7 +2470,7 @@
              "answer":"Create a criteria-based sharing rule to share the record with the user in the lookup field."
           }
        ],
-       "answer":"D. ",
+       "answer":"C. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
@@ -4943,7 +4943,7 @@
     },
     {
        "id":"175",
-       "question":"Universal Containers (UC) service reps are assigned to a profile which has â€œView Allâ€? in Case object (Private OWD). To make sure service reps have access to all relevant information to attend to customer requests, which two details should a salesforce Architects consider? Choose 2 answers: ",
+       "question":"Universal Containers (UC) service reps are assigned to a profile which has view all in Case object (Private OWD). To make sure service reps have access to all relevant information to attend to customer requests, which two details should a salesforce Architects consider? Choose 2 answers: ",
        "answers":[
           {
              "ca":"A.",
@@ -5899,7 +5899,7 @@
              "answer":"Use Apex sharing to share cases with the students."
           }
        ],
-       "answer":"B. ",
+       "answer":"C. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
