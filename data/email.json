@@ -4532,7 +4532,9 @@
     },
     {
        "id":"161",
-       "question":"Besides their own team accounts, sales managers at Universal Container need to have READ access to all other countries. Role hierarchy was implemented accordingly (based on countries) but a Sales manager in the US comp records of the same segment in Canada. What should be done to grant access in a proper way? ",
+       "question":"Besides their own team accounts, sales managers at Universal Container need to have READ access to all other countries. Role hierarchy was implemented accordingly (based on countries) but a sales manager in the US is complaining that he cannot view account records of the same segment in Canada. What should be done to grant access in a proper way? "
+
+       Read more at Answer.Ya.Guru – https://answer.ya.guru/questions/1131878-besides-their-own-team-accounts-sales-managers-at-universal.html",
        "answers":[
           {
              "ca":"A.",
@@ -4721,7 +4723,7 @@
           {
              "ca":"B.",
              "checked":false,
-             "answer":"Create the share records in a class with the â€œWithout Sharingâ€? keyword"
+             "answer":"Create the share records in a class with the 'Without Sharing' keyword"
           },
           {
              "ca":"C.",
@@ -5185,17 +5187,17 @@
           {
              "ca":"B.",
              "checked":false,
-             "answer":"Share the folders with the â€œVP of Salesâ€? Role and Subordinates."
+             "answer":"Share the folders with the 'VP of Sales' Role and Subordinates."
           },
           {
              "ca":"C.",
              "checked":false,
-             "answer":"Share the folders with the â€œSales Managersâ€? Queue."
+             "answer":"Share the folders with the 'Sales Managers' Queue."
           },
           {
              "ca":"D.",
              "checked":false,
-             "answer":"Share the folders with a â€œSales Managersâ€? Public Group."
+             "answer":"Share the folders with a 'Sales Managers' Public Group."
           }
        ],
        "answer":"B. D. ",
@@ -5204,7 +5206,7 @@
     },
     {
        "id":"184",
-       "question":"Universal Containers (UC) has 600 sales reps. UC has rollout plan to deploy salesforce in 3 weeks. At the end of the second week, they received a â€œUser Role Limit Exceededâ€? error. After investigation, they discovered that during the user provisioning process, a new role was generated for every new user. Which two recommendations could solve this problem? Choose 2 answers. ",
+       "question":"Universal Containers (UC) has 600 sales reps. UC has rollout plan to deploy salesforce in 3 weeks. At the end of the second week, they received a 'User Role Limit Exceeded' error. After investigation, they discovered that during the user provisioning process, a new role was generated for every new user. Which two recommendations could solve this problem? Choose 2 answers. ",
        "answers":[
           {
              "ca":"A.",
@@ -5456,7 +5458,7 @@
           {
              "ca":"D.",
              "checked":false,
-             "answer":"The opportunity owner can enable/disable if the â€œDefault Opportunity teamâ€? is able to access the record"
+             "answer":"The opportunity owner can enable/disable if the 'Default Opportunity team' is able to access the record"
           }
        ],
        "answer":"B. ",
@@ -6142,7 +6144,7 @@
           {
              "ca":"A.",
              "checked":false,
-             "answer":"New AccountShare record is created. Row Cause is \"Manual\" and Access Level is \"Read/Writeâ€?."
+             "answer":"New AccountShare record is created. Row Cause is \"Manual\" and Access Level is \"Read/Write'."
           },
           {
              "ca":"B.",
@@ -6166,7 +6168,7 @@
     },
     {
        "id":"217",
-       "question":"Ursa Major Solar is writing test methods. Which functionality does the system method \"runAs()â€? Verify? ",
+       "question":"Ursa Major Solar is writing test methods. Which functionality does the system method \"runAs()' Verify? ",
        "answers":[
           {
              "ca":"A.",
@@ -6282,7 +6284,7 @@
     },
     {
        "id":"221",
-       "question":"Universal Containers would like to control access to records and objects according to the following business requirements:â€¢ Sales users can view all Account records but only edit their own records. â€¢ Sales managers view all Account records but only edit records of the team. â€¢ Service users can view all Account records that are not marked with a RecordType of Prospect. Which organization-wide default configuration should a Salesforce architect recommend to fulfill these requirements? ",
+       "question":"Universal Containers would like to control access to records and objects according to the following business requirements:\n - Sales users can view all Account records but only edit their own records. \n - Sales managers view all Account records but only edit records of the team. \n - Service users can view all Account records that are not marked with a RecordType of Prospect.\n Which organization-wide default configuration should a Salesforce architect recommend to fulfill these requirements? ",
        "answers":[
           {
              "ca":"A.",
@@ -6297,7 +6299,7 @@
           {
              "ca":"C.",
              "checked":false,
-             "answer":"Public tad Only"
+             "answer":"Public read Only"
           },
           {
              "ca":"D.",
