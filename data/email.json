@@ -1368,35 +1368,6 @@
        "isRadioButton":true
     },
     {
-       "id":"49",
-       "question":"Universal containers (UC) service reps are assigned to a profile which has 'View All' in Case object.. To make sure service reps have access to all relevant information to attend to customer requests, which Architect consider? Choose 2 answers ",
-       "answers":[
-          {
-             "ca":"A.",
-             "checked":false,
-             "answer":"Service reps will be able to access to Contact records if they are Controlled by Parent."
-          },
-          {
-             "ca":"B.",
-             "checked":false,
-             "answer":"Service reps will be able to access to Contact records due to Implicit Sharing."
-          },
-          {
-             "ca":"C.",
-             "checked":false,
-             "answer":"Service reps will NOT able to access to Contact records because Account OWD is private"
-          },
-          {
-             "ca":"D.",
-             "checked":false,
-             "answer":"Service reps will NOT able to access to Contact records if they are controlled by Parent."
-          }
-       ],
-       "answer":"A. ",
-       "choose":"Choose 1",
-       "isRadioButton":true
-    },
-    {
        "id":"50",
        "question":"In order to allow community users to collaborate on Opportunities, which license type must the users. ",
        "answers":[
