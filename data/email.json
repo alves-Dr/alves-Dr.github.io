@@ -4503,9 +4503,7 @@
     },
     {
        "id":"161",
-       "question":"Besides their own team accounts, sales managers at Universal Container need to have READ access to all other countries. Role hierarchy was implemented accordingly (based on countries) but a sales manager in the US is complaining that he cannot view account records of the same segment in Canada. What should be done to grant access in a proper way? "
-
-       Read more at Answer.Ya.Guru – https://answer.ya.guru/questions/1131878-besides-their-own-team-accounts-sales-managers-at-universal.html",
+       "question":"Besides their own team accounts, sales managers at Universal Container need to have READ access to all other countries. Role hierarchy was implemented accordingly (based on countries) but a sales manager in the US is complaining that he cannot view account records of the same segment in Canada. What should be done to grant access in a proper way? ",
        "answers":[
           {
              "ca":"A.",
