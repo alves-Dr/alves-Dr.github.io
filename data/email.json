@@ -1044,7 +1044,7 @@
              "answer":"Read-only access"
           }
        ],
-       "answer":"B. ",
+       "answer":"D. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
@@ -4144,7 +4144,7 @@
              "answer":"Create an owner-based sharing rule on the Custom Team object that will share the Loan record to the owner of the Custom Team record."
           }
        ],
-       "answer":"B.  D. ",
+       "answer":"A.  C. ",
        "choose":"Choose 2",
        "isRadioButton":false
     },
@@ -5227,7 +5227,7 @@
              "answer":"Implement a Public Read/Write OWD on Lead."
           }
        ],
-       "answer":"D. ",
+       "answer":"C. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
