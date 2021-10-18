@@ -3491,7 +3491,7 @@
              "answer":"Deploy the Relationship between Accounts and the Invoices Object as Lookup."
           }
        ],
-       "answer":"A.  B. ",
+       "answer":"B.  D. ",
        "choose":"Choose 2",
        "isRadioButton":false
     },
@@ -4555,8 +4555,8 @@
              "answer":"User isAccessable keyword Apex classes to assure recor visibility will be followed."
           }
        ],
-       "answer":"C. D. ",
-       "choose":"Choose 1",
+       "answer":"B. C. ",
+       "choose":"Choose 2",
        "isRadioButton":true
     },
     {
