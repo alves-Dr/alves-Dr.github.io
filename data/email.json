@@ -2006,7 +2006,7 @@
              "answer":"Store the value in an encrypted field on a custom object in the package."
           }
        ],
-       "answer":"C. ",
+       "answer":"A. ",
        "choose":"Choose 1",
        "isRadioButton":true
     },
@@ -3491,7 +3491,7 @@
              "answer":"Deploy the Relationship between Accounts and the Invoices Object as Lookup."
           }
        ],
-       "answer":"B.  D. ",
+       "answer":"B. D. ",
        "choose":"Choose 2",
        "isRadioButton":false
     },
@@ -4614,7 +4614,7 @@
           }
        ],
        "answer":"B. C. ",
-       "choose":"Choose 1",
+       "choose":"Choose 2",
        "isRadioButton":true
     },
     {
@@ -4647,7 +4647,7 @@
              "answer":"Use debug to check hijacked requests"
           }
        ],
-       "answer":"C.  D.  E. ",
+       "answer":"C. D. E. ",
        "choose":"Choose 3",
        "isRadioButton":false
     },
@@ -4937,7 +4937,7 @@
              "answer":"Service reps will not be able to access all the UC Accounts records because Account OWD is private."
           }
        ],
-       "answer":"B.  D. ",
+       "answer":"B.  C. ",
        "choose":"Choose 2",
        "isRadioButton":false
     },
@@ -6126,7 +6126,7 @@
              "answer":"New AccountShare record is created. Row Cause is \"Owner\" and Access Level is \"Full\"."
           },
           {
-             "ca":"D.",
+             "ca":"A.",
              "checked":false,
              "answer":"Existing AccountShare record is updated. Row Cause is \"Manual\" and Access Level is \"Read/Write\"."
           }
